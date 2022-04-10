@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ArrayAdapters</string>
+    <string-array name="android_versions">
+        <item>Cupcake</item>
+        <item>Donut</item>
+        <item>Eclairs</item>
+        <item>Froyo</item>
+        <item>GingerBread</item>
+        <item>Honey Comb</item>
+        <item>IceCream Sandwich</item>
+        <item>Jelly Bean</item>
+        <item>Kitkat</item>
+        <item>Lollipop</item>
+        <item>Marshmallow</item>
+        <item>Noughat</item>
+        <item>Oreo</item>
+        <item>Pie</item>
+    </string-array>
+</resources>
